@@ -1,0 +1,14 @@
+[
+  {
+    "item": "Product A",
+    "ppu": 100,
+    "qty": 1,
+    "discount": 0
+  },
+  {
+    "item": "Product C",
+    "ppu": 150,
+    "qty": 3,
+    "discount": 5
+  }
+]
